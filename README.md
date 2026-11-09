@@ -12,15 +12,15 @@ Mục tiêu căn bản là tạo web để chứa các bài học LaTeX đây (�
 
 Mã nguồn tạo web (đang trong quá trình thử nghiệm): . . . (chưa cập nhật)
 
-Để tạo được web, tự học HTML, CSS, Git and Github, Visual Studio Code cơ bản. (JS mình ăn cắp trên mạng hehe :>)
+Để tạo được web, tự học HTML, CSS, Git và Github, Visual Studio Code cơ bản. (JS mình ăn cắp trên mạng hehe :>)
 
 Trang tham khảo mẫu thiết kế: 
-+ https://bellard.org/index.html  (trang web của Fabrice Bellard) và https://www.mit.edu/~ashrstnv/maxwells-equations.html (trang web của MIT)
++ https://bellard.org/index.html  (trang web của Fabrice Bellard), https://www.mit.edu/~ashrstnv/maxwells-equations.html và https://math.mit.edu/~djk/index.html (trang web của MIT) 
 + https://www.learnlatex.org/vi/lesson-03  (trang web hướng dẫn LaTeX sử dụng TeXlive.net) 
 + https://github.com/davidcarlisle/latexcgi  (mã nguồn tạo TeXlive.net) 
 
 Trong trang web đó cần chứa: 
-+ Chắc chắn phải chứa các bài học [Lecture notes]() ở mỗi chủ đề khác nhau trong LaTeX (bao gồm phiên bản web và phiên bản pdf (được viết ở lớp report thô sơ trước))
++ Chắc chắn phải chứa các bài học [lecture notes]() ở mỗi chủ đề khác nhau trong LaTeX (bao gồm phiên bản web và phiên bản pdf (được viết ở lớp report thô sơ trước))
 + Giới thiệu tài liệu học và cảm ơn những tài liệu hay ai đó mà mình tham khảo, học được từ đó (Introduction and Thank you)
 + Hướng dẫn đọc tài liệu của mình 
 + Giới thiệu một chút thằng tác giả: Ngắn gọn thoi (About)
